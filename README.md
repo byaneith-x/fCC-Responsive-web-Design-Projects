@@ -1,5 +1,5 @@
-# fCC-Responsive-web-Design-Projects
+# freCodeCamp-Tribute Page
 Responsive web Design Projects 
-This are 5 Responsive projects of freeCodeCamp
+This is the number 1 of 5 Responsive projects of freeCodeCamp, here in GitHub
 
 
